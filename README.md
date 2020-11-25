@@ -1,1 +1,2 @@
-# ReactRouter-And-Redux
+# Curso Practico de ReactJS
+Curso de React.JS
