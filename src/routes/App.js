@@ -5,8 +5,8 @@ import Login from "../containers/Login";
 
 const App = () => (
   <BrowserRouter>
-    {/* <Route exact path="/" component="Home" /> */}
-    {/* <Route exact path="/Login" component="Login" /> */}
+    <Route exact path="/" component="Home" />
+    <Route exact path="/Login" component="Login" />
   </BrowserRouter>
 );
 
